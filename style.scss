@@ -1,0 +1,21 @@
+$width: 1920px;
+$height: 7301px;
+
+body {
+	max-width: $width;
+	height: $height;
+	.jumbotron {
+		height: 748px;
+		margin-bottom: 0px;
+	}
+	#navbar {
+		background-color: lavender;
+		height: 645px;
+		margin: 0px;
+		padding: 0px;
+	}
+	nav.navbar {
+		border-bottom: 1px solid black;
+	}
+}	
+		
