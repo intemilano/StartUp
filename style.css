@@ -1,0 +1,15 @@
+body {
+  max-width: 1920px;
+  height: 7301px; }
+  body .jumbotron {
+    height: 748px;
+    margin-bottom: 0px; }
+  body #navbar {
+    background-color: lavender;
+    height: 645px;
+    margin: 0px;
+    padding: 0px; }
+  body nav.navbar {
+    border-bottom: 1px solid black; }
+
+/*# sourceMappingURL=style.css.map */
